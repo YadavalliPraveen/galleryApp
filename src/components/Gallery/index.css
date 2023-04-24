@@ -1,0 +1,25 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px;
+}
+.image {
+  width: 100vh;
+  height: 60vh;
+}
+
+.title {
+  color: #1e293b;
+  font-family: 'Roboto';
+  align-self: flex-start;
+}
+.description {
+  color: #64748b;
+  font-family: 'Roboto';
+  align-self: flex-start;
+}
+
+.thumbnail-images-container {
+  display: flex;
+}
